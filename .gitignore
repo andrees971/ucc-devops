@@ -6,3 +6,39 @@
 *.jar
 *.war
 *.ear
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+#Exclusion folders
+bin/
+>>>>>>> b0c331431a50b1dd67b11b0d1ca1753b3bc04ddf
