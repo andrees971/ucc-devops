@@ -6,17 +6,17 @@ using namespace std;
 
 int main() {
 
-	int ivalor = 0;
+	int ivalor = 20;
 	int icontador = 0;
+	int i = 0
 
-	cout << "Ingrese un valor para calcular una suma: ";
-	cin >> ivalor;
-	cout << "Usted ingreso: " << ivalor << endl;
+	cout << "+-----------Programa Hilo------------+" << endl;
 	for(int i = 1; i <= ivalor; i++){
 		icontador += i;
+		count << "Ciclo for i = " << icontador << endl;
 	}
 
-	cout << "El resultado es: " << icontador << endl;
+	cout << "+------------- Fin del programa -----------+ " << endl;
 
 	return 0;
 }
